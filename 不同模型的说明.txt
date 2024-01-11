@@ -1,0 +1,4 @@
+Base_Model:
+Micro_Base_Model:在最后一层（avgpool之前）加了一层involution
+LArge_Base_Model:downsample修改最后的3层为内卷
+LArge_Base_Model2:downsample修改最后的2层为内卷,最后一层（avgpool之前）加了一层involution
